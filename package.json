@@ -1,10 +1,10 @@
 {
   "name": "landing-qa-test",
   "version": "1.0.0",
-  "description": "QA test con Playwright para landing page",
-  "main": "test-landing.js",
+  "description": "QA test con Playwright",
+  "main": "runner.js",
   "scripts": {
-    "test": "node test-landing.js"
+    "test": "node runner.js"
   },
   "dependencies": {
     "playwright": "^1.55.0"
